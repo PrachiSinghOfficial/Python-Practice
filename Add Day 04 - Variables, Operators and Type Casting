@@ -1,0 +1,229 @@
+# 🐍 Python Learning Journey
+
+## Day 04 – Variables, Operators & Type Casting
+
+### 📚 Topics Covered
+
+- Python Operators
+- Variable Declaration Rules
+- Type Casting
+- Variables Revision
+- Data Types Revision
+
+---
+
+# 📖 Theory
+
+## 1. Variables
+
+Variables are used to store data values.
+
+Example:
+
+```python
+name = "Prachi"
+age = 22
+```
+
+---
+
+## 2. Rules for Declaring Variables
+
+- Variable names must start with a letter or an underscore (_).
+- Variable names cannot start with a number.
+- Variable names are case-sensitive.
+- Variable names cannot contain spaces.
+- Variable names should be meaningful.
+
+### Valid Examples
+
+```python
+name = "Prachi"
+_age = 22
+student_name = "Pihuu"
+```
+
+### Invalid Examples
+
+```python
+2name = "Prachi"
+student name = "Pihuu"
+```
+
+---
+
+## 3. Python Operators
+
+### Arithmetic Operators
+
+```python
++
+-
+*
+/
+/
+//
+%
+**
+```
+
+Example:
+
+```python
+a = 10
+b = 3
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
+```
+
+---
+
+### Comparison Operators
+
+```python
+==
+!=
+>
+<
+>=
+<=
+```
+
+---
+
+### Logical Operators
+
+```python
+and
+or
+not
+```
+
+---
+
+### Assignment Operators
+
+```python
+=
++=
+-=
+*=
+/=
+```
+
+---
+
+## 4. Type Casting
+
+Type casting means converting one data type into another.
+
+### Integer to Float
+
+```python
+num = 10
+print(float(num))
+```
+
+### Float to Integer
+
+```python
+num = 10.5
+print(int(num))
+```
+
+### Integer to String
+
+```python
+age = 22
+print(str(age))
+```
+
+---
+
+## 5. Revision of Data Types
+
+- int
+- float
+- str
+- bool
+
+Examples:
+
+```python
+age = 22
+price = 99.99
+name = "Prachi"
+is_student = True
+```
+
+---
+
+# 💻 Practical Work
+
+✅ Declared variables
+
+✅ Followed variable naming rules
+
+✅ Practiced arithmetic operators
+
+✅ Practiced comparison operators
+
+✅ Practiced logical operators
+
+✅ Performed type casting
+
+✅ Revised variables and data types
+
+---
+
+# 📖 New Vocabulary
+
+| Word | Meaning |
+|------|---------|
+| Variable | A container that stores data |
+| Operator | A symbol that performs an operation |
+| Arithmetic | Mathematical operations |
+| Comparison | Comparing two values |
+| Logical | Decision-making operations |
+| Assignment | Assigning values to variables |
+| Type Casting | Converting one data type into another |
+
+---
+
+# 🌸 What I Learned Today
+
+- Learned the rules for declaring variables.
+- Practiced different types of Python operators.
+- Understood how type casting works.
+- Revised variables and data types.
+- Improved my Python programming fundamentals.
+
+---
+
+# 🎯 Skills Practiced
+
+- Variables
+- Data Types
+- Operators
+- Type Casting
+- Python Fundamentals
+
+---
+
+## ⭐ Status
+
+✅ Theory Completed
+
+✅ Practical Completed
+
+---
+
+**Author:** Prachi
+
+**Day:** 04
